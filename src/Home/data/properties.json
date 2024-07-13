@@ -1,6 +1,6 @@
 [
     {
-        "pic": "/src/assets/image1.png",
+        "pic": "/assets/image1.png",
         "contentOne": "semi-detached building",
         "contentTwo": "#150,000,000",
         "contentThree": "4 Bed",
@@ -10,7 +10,7 @@
         "id": 1
     },
     {
-        "pic": "/src/assets/image1.png",
+        "pic": "/assets/image1.png",
         "contentOne": "semi-detached building",
         "contentTwo": "#150,000,000",
         "contentThree": "4 Bed",
@@ -20,7 +20,7 @@
         "id": 2
     },
     {
-        "pic": "/src/assets/image1.png",
+        "pic": "/assets/image1.png",
         "contentOne": "semi-detached building",
         "contentTwo": "#150,000,000",
         "contentThree": "4 Bed",
@@ -30,7 +30,7 @@
         "id": 3
     },
     {
-        "pic": "/src/assets/image1.png",
+        "pic": "/assets/image1.png",
         "contentOne": "semi-detached building",
         "contentTwo": "#150,000,000",
         "contentThree": "4 Bed",
@@ -40,7 +40,7 @@
         "id": 4
     },
     {
-        "pic": "/src/assets/image1.png",
+        "pic": "/assets/image1.png",
         "contentOne": "semi-detached building",
         "contentTwo": "#150,000,000",
         "contentThree": "4 Bed",
@@ -50,7 +50,7 @@
         "id": 5
     },
     {
-        "pic": "/src/assets/image1.png",
+        "pic": "/assets/image1.png",
         "contentOne": "semi-detached building",
         "contentTwo": "#150,000,000",
         "contentThree": "4 Bed",

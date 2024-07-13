@@ -1,6 +1,6 @@
 [
     {
-        "pic": "/src/assets/image1.png",
+        "pic": "/assets/image1.png",
         "contentOne": "emmy04x luxury villa",
         "contentTwo": "see more",
         "contentThree": "victoria island, lagos",
@@ -12,7 +12,7 @@
         "id": 1
     },
     {
-        "pic": "/src/assets/image1.png",
+        "pic": "/assets/image1.png",
         "contentOne": "emmy04x luxury villa",
         "contentTwo": "see more",
         "contentThree": "victoria island, lagos",
@@ -24,7 +24,7 @@
         "id": 2
     },
     {
-        "pic": "/src/assets/image1.png",
+        "pic": "/assets/image1.png",
         "contentOne": "emmy04x luxury villa",
         "contentTwo": "see more",
         "contentThree": "victoria island, lagos",
@@ -36,7 +36,7 @@
         "id": 3
     },
     {
-        "pic": "/src/assets/image1.png",
+        "pic": "/assets/image1.png",
         "contentOne": "emmy04x luxury villa",
         "contentTwo": "see more",
         "contentThree": "victoria island, lagos",
@@ -48,7 +48,7 @@
         "id": 4
     },
     {
-        "pic": "/src/assets/image1.png",
+        "pic": "/assets/image1.png",
         "contentOne": "emmy04x luxury villa",
         "contentTwo": "see more",
         "contentThree": "victoria island, lagos",
@@ -60,7 +60,7 @@
         "id": 5
     },
     {
-        "pic": "/src/assets/image1.png",
+        "pic": "/assets/image1.png",
         "contentOne": "emmy04x luxury villa",
         "contentTwo": "see more",
         "contentThree": "victoria island, lagos",

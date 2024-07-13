@@ -1,6 +1,6 @@
 { "blogsOne" : [
         {
-            "pic": "../src/assets/blogOne.png",
+            "pic": "/assets/blogOne.png",
             "contentOne": "JULY 24, 2023",
             "contentTwo": "5mins read",
             "contentThree": "11:45am",
@@ -10,7 +10,7 @@
             "id": 1
         },
         {
-            "pic": "../src/assets/blogTwo.png",
+            "pic": "/assets/blogTwo.png",
             "contentOne": "JULY 24, 2023",
             "contentTwo": "5mins read",
             "contentThree": "11:45am",
@@ -23,7 +23,7 @@
 
     "blogsTwo" : [
         {
-            "pic": "../src/assets/blogThree.png",
+            "pic": "/assets/blogThree.png",
             "contentOne": "JULY 24, 2023",
             "contentTwo": "5mins read",
             "contentThree": "11:45am",
@@ -33,7 +33,7 @@
             "id": 1
         },
         {
-            "pic": "../src/assets/blogFour.png",
+            "pic": "/assets/blogFour.png",
             "contentOne": "JULY 24, 2023",
             "contentTwo": "5mins read",
             "contentThree": "11:45am",
@@ -46,7 +46,7 @@
 
     "blogsThree" :     [
         {
-            "pic": "../src/assets/blogFive.png",
+            "pic": "/assets/blogFive.png",
             "contentOne": "JULY 24, 2023",
             "contentTwo": "5mins read",
             "contentThree": "11:45am",
@@ -56,7 +56,7 @@
             "id": 1
         },
         {
-            "pic": "../src/assets/blogSix.png",
+            "pic": "/assets/blogSix.png",
             "contentOne": "JULY 24, 2023",
             "contentTwo": "5mins read",
             "contentThree": "11:45am",

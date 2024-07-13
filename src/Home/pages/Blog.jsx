@@ -1,4 +1,19 @@
 import blogs from '../data/blogs.json'
+import blogOne from '../../assets/blogOne.png';
+import blogTwo from '../../assets/blogTwo.png';
+import blogThree from '../../assets/blogThree.png';
+import blogFour from '../../assets/blogFour.png';
+import blogFive from '../../assets/blogFive.png';
+import blogSix from '../../assets/blogSix.png';
+
+const imageMap = {
+    "/assets/blogOne.png": blogOne,
+    "/assets/blogTwo.png": blogTwo,
+    "/assets/blogThree.png": blogThree,
+    "/assets/blogFour.png": blogFour,
+    "/assets/blogFive.png": blogFive,
+    "/assets/blogSix.png": blogSix,
+};
 
 const Blog = () => {
     return (
@@ -18,7 +33,7 @@ const Blog = () => {
                                     <div className="rounded-t-lg overflow-hidden cursor-pointer ">
                                         <img
                                             className=" w-full rounded-t-lg max-h-[500px]"
-                                            src={blogsOne.pic}
+                                            src={imageMap[blogsOne.pic]}
                                             alt="A beautiful landscape"
                                         />
                                         <div>
@@ -59,7 +74,7 @@ const Blog = () => {
                                     <div className="rounded-t-lg overflow-hidden cursor-pointer ">
                                         <img
                                             className=" w-full rounded-t-lg max-h-[500px]"
-                                            src={blogsTwo.pic}
+                                            src={imageMap[blogsTwo.pic]}
                                             alt="A beautiful landscape"
                                         />
                                         <div>
@@ -100,7 +115,7 @@ const Blog = () => {
                                     <div className="rounded-t-lg overflow-hidden cursor-pointer ">
                                         <img
                                             className=" w-full rounded-t-lg max-h-[500px]"
-                                            src={blogsThree.pic}
+                                            src={imageMap[blogsThree.pic]}
                                             alt="A beautiful landscape"
                                         />
                                         <div>
