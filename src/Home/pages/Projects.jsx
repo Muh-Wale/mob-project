@@ -1,14 +1,17 @@
 import React, { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import tick from '/src/assets/Tick.png'
-import properties from '/src/data/properties.json'
-import propertiesTwo from '/src/data/propertiesTwo.json'
+import properties from '../data/properties.json'
+import propertiesTwo from '../data/propertiesTwo.json'
+import image1 from '../../assets/image1.png';
 import { Navigation, Pagination, Scrollbar, A11y } from 'swiper/modules';
-import { CgPlayTrackNextO, CgPlayTrackPrevO } from "react-icons/cg";
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css/pagination';
 import 'swiper/css';
 
+const imageMap = {
+    "/assets/image1": image1,
+};
 const Projects = () => {
     const useWindowSize = () => {
         const [size, setSize] = useState([window.innerWidth, window.innerHeight]);
@@ -78,7 +81,7 @@ const Projects = () => {
                             <div className="relative rounded-lg transition duration-500 ease-in-out transform hover:scale-105 overflow-hidden cursor-pointer">
                                 <img
                                     className="w-full h-full object-cover rounded-lg"
-                                    src={property.pic}
+                                    src={[image1]}
                                     alt="A beautiful landscape"
                                 />
                                 <Link className="absolute bottom-0 left-0 w-full h-[45%] backdrop-two text-[#574E4E] p-5" to='/propertylisting'>

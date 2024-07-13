@@ -7,8 +7,8 @@
         "contentFour": "20,000,000",
         "contentFive": "3 bedroom",
         "contentSix": "4 bathrooms",
-        "contentSeven": "/src/assets/Link.png",
-        "contentEight": "/src/assets/Like.png",
+        "contentSeven": "/assets/Link.png",
+        "contentEight": "/assets/Like.png",
         "id": 1
     },
     {
@@ -19,8 +19,8 @@
         "contentFour": "20,000,000",
         "contentFive": "3 bedroom",
         "contentSix": "4 bathrooms",
-        "contentSeven": "/src/assets/Link.png",
-        "contentEight": "/src/assets/Like.png",
+        "contentSeven": "/assets/Link.png",
+        "contentEight": "/assets/Like.png",
         "id": 2
     },
     {
@@ -31,8 +31,8 @@
         "contentFour": "20,000,000",
         "contentFive": "3 bedroom",
         "contentSix": "4 bathrooms",
-        "contentSeven": "/src/assets/Link.png",
-        "contentEight": "/src/assets/Like.png",
+        "contentSeven": "/assets/Link.png",
+        "contentEight": "/assets/Like.png",
         "id": 3
     },
     {
@@ -43,8 +43,8 @@
         "contentFour": "20,000,000",
         "contentFive": "3 bedroom",
         "contentSix": "4 bathrooms",
-        "contentSeven": "/src/assets/Link.png",
-        "contentEight": "/src/assets/Like.png",
+        "contentSeven": "/assets/Link.png",
+        "contentEight": "/assets/Like.png",
         "id": 4
     },
     {
@@ -55,8 +55,8 @@
         "contentFour": "20,000,000",
         "contentFive": "3 bedroom",
         "contentSix": "4 bathrooms",
-        "contentSeven": "/src/assets/Link.png",
-        "contentEight": "/src/assets/Like.png",
+        "contentSeven": "/assets/Link.png",
+        "contentEight": "/assets/Like.png",
         "id": 5
     },
     {
@@ -67,8 +67,8 @@
         "contentFour": "20,000,000",
         "contentFive": "3 bedroom",
         "contentSix": "4 bathrooms",
-        "contentSeven": "/src/assets/Link.png",
-        "contentEight": "/src/assets/Like.png",
+        "contentSeven": "/assets/Link.png",
+        "contentEight": "/assets/Like.png",
         "id": 6
     }
 ]
