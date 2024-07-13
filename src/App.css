@@ -1,0 +1,53 @@
+.headerImg{
+    background-image: url(/src/assets/Header.png);
+    background-size: cover;
+    background-position: center;
+}
+.Projects-three{
+    background-image: url(/src/assets/Projects3.png);
+    background-size: cover;
+    background-position: center;
+}
+.projects-four{
+    background-image: url(/src/assets/GetStarted.png);
+    background-size: cover;
+    background-position: center;
+}
+.projects-five{
+    background-image: url(/src/assets/Subscribe.png);
+    background-size: cover;
+    background-position: center;
+}
+.projects-six{
+    background-image: url(/src/assets/Listing.png);
+    background-size: cover;
+    background-position: center;
+}
+.projects-seven{
+    background-image: url(/src/assets/header2.png);
+    background-size: cover;
+    background-position: center;
+}
+.projects-eight{
+    background-image: url(/src/assets/about.png);
+    background-size: cover;
+    background-position: center;
+}
+.font-one{
+    font-family: 'Montserrat', sans-serif;
+}
+.font-two{
+    font-family: 'Pixelify Sans', sans-serif;
+}
+.backdrop{
+    background: rgba(217, 217, 217, 0.40);
+    backdrop-filter: blur(57.5px);
+}
+.backdrop-two{
+    background: rgba(217, 217, 217, 0.50);
+    backdrop-filter: blur(5px);
+}
+.backdrop-three{
+    background: rgba(217, 217, 217, 0.45);
+    backdrop-filter: blur(17.5px);
+}

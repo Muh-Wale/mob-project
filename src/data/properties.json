@@ -1,0 +1,62 @@
+[
+    {
+        "pic": "/src/assets/image1.png",
+        "contentOne": "semi-detached building",
+        "contentTwo": "#150,000,000",
+        "contentThree": "4 Bed",
+        "contentFour": "8*8 m",
+        "contentFive": "1200m",
+        "contentSix": "Ikate road, lekki",
+        "id": 1
+    },
+    {
+        "pic": "/src/assets/image1.png",
+        "contentOne": "semi-detached building",
+        "contentTwo": "#150,000,000",
+        "contentThree": "4 Bed",
+        "contentFour": "8*8 m",
+        "contentFive": "1200m",
+        "contentSix": "Ikate road, lekki",
+        "id": 2
+    },
+    {
+        "pic": "/src/assets/image1.png",
+        "contentOne": "semi-detached building",
+        "contentTwo": "#150,000,000",
+        "contentThree": "4 Bed",
+        "contentFour": "8*8 m",
+        "contentFive": "1200m",
+        "contentSix": "Ikate road, lekki",
+        "id": 3
+    },
+    {
+        "pic": "/src/assets/image1.png",
+        "contentOne": "semi-detached building",
+        "contentTwo": "#150,000,000",
+        "contentThree": "4 Bed",
+        "contentFour": "8*8 m",
+        "contentFive": "1200m",
+        "contentSix": "Ikate road, lekki",
+        "id": 4
+    },
+    {
+        "pic": "/src/assets/image1.png",
+        "contentOne": "semi-detached building",
+        "contentTwo": "#150,000,000",
+        "contentThree": "4 Bed",
+        "contentFour": "8*8 m",
+        "contentFive": "1200m",
+        "contentSix": "Ikate road, lekki",
+        "id": 5
+    },
+    {
+        "pic": "/src/assets/image1.png",
+        "contentOne": "semi-detached building",
+        "contentTwo": "#150,000,000",
+        "contentThree": "4 Bed",
+        "contentFour": "8*8 m",
+        "contentFive": "1200m",
+        "contentSix": "Ikate road, lekki",
+        "id": 6
+    }
+]

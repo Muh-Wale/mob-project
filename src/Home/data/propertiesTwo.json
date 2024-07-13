@@ -1,0 +1,74 @@
+[
+    {
+        "pic": "/src/assets/image1.png",
+        "contentOne": "emmy04x luxury villa",
+        "contentTwo": "see more",
+        "contentThree": "victoria island, lagos",
+        "contentFour": "20,000,000",
+        "contentFive": "3 bedroom",
+        "contentSix": "4 bathrooms",
+        "contentSeven": "/src/assets/Link.png",
+        "contentEight": "/src/assets/Like.png",
+        "id": 1
+    },
+    {
+        "pic": "/src/assets/image1.png",
+        "contentOne": "emmy04x luxury villa",
+        "contentTwo": "see more",
+        "contentThree": "victoria island, lagos",
+        "contentFour": "20,000,000",
+        "contentFive": "3 bedroom",
+        "contentSix": "4 bathrooms",
+        "contentSeven": "/src/assets/Link.png",
+        "contentEight": "/src/assets/Like.png",
+        "id": 2
+    },
+    {
+        "pic": "/src/assets/image1.png",
+        "contentOne": "emmy04x luxury villa",
+        "contentTwo": "see more",
+        "contentThree": "victoria island, lagos",
+        "contentFour": "20,000,000",
+        "contentFive": "3 bedroom",
+        "contentSix": "4 bathrooms",
+        "contentSeven": "/src/assets/Link.png",
+        "contentEight": "/src/assets/Like.png",
+        "id": 3
+    },
+    {
+        "pic": "/src/assets/image1.png",
+        "contentOne": "emmy04x luxury villa",
+        "contentTwo": "see more",
+        "contentThree": "victoria island, lagos",
+        "contentFour": "20,000,000",
+        "contentFive": "3 bedroom",
+        "contentSix": "4 bathrooms",
+        "contentSeven": "/src/assets/Link.png",
+        "contentEight": "/src/assets/Like.png",
+        "id": 4
+    },
+    {
+        "pic": "/src/assets/image1.png",
+        "contentOne": "emmy04x luxury villa",
+        "contentTwo": "see more",
+        "contentThree": "victoria island, lagos",
+        "contentFour": "20,000,000",
+        "contentFive": "3 bedroom",
+        "contentSix": "4 bathrooms",
+        "contentSeven": "/src/assets/Link.png",
+        "contentEight": "/src/assets/Like.png",
+        "id": 5
+    },
+    {
+        "pic": "/src/assets/image1.png",
+        "contentOne": "emmy04x luxury villa",
+        "contentTwo": "see more",
+        "contentThree": "victoria island, lagos",
+        "contentFour": "20,000,000",
+        "contentFive": "3 bedroom",
+        "contentSix": "4 bathrooms",
+        "contentSeven": "/src/assets/Link.png",
+        "contentEight": "/src/assets/Like.png",
+        "id": 6
+    }
+]
