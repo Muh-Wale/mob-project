@@ -1,6 +1,9 @@
 import React from 'react'
-import properties from '/src/data/properties.json'
-import propertiesTwo from '/src/data/propertiesTwo.json'
+import properties from '../data/properties.json'
+import propertiesTwo from '../data/propertiesTwo.json'
+import image1 from '../../assets/image1.png';
+import Linke from '../../assets/Link.png';
+import Like from '../../assets/Like.png';
 import { Navigation, Pagination, Scrollbar, A11y } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css/pagination';
@@ -23,7 +26,7 @@ const Body = () => {
                                     <div className="relative rounded-lg overflow-hidden cursor-pointer">
                                         <img
                                             className="w-full h-[430px] object-cover rounded-lg "
-                                            src={propertiesTwo.pic}
+                                            src={[image1]}
                                             alt="A beautiful landscape"
                                         />
                                         {/* {<div className="absolute bottom-0 left-0 w-full h-[50%] bg-black opacity-50 rounded-lg transition duration-500 ease-in-out transform hover:opacity-0 hover:scale-110"></div>} */}
@@ -55,8 +58,8 @@ const Body = () => {
                                                     <span>{propertiesTwo.contentFour}</span>
                                                 </div>
                                                 <div className='flex gap-[30px]'>
-                                                    <div><img src={propertiesTwo.contentSeven} alt="" /></div>
-                                                    <div><img src={propertiesTwo.contentEight} alt="" /></div>
+                                                    <div><img src={[Linke]} alt="" /></div>
+                                                    <div><img src={[Like]} alt="" /></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -96,7 +99,7 @@ const Body = () => {
                                 <div className="relative rounded-lg transition duration-500 ease-in-out transform hover:scale-105 overflow-hidden cursor-pointer">
                                     <img
                                         className="w-full h-full object-cover rounded-lg "
-                                        src={properties.pic}
+                                        src={[image1]}
                                         alt="A beautiful landscape"
                                     />
                                     {/* {<div className="absolute bottom-0 left-0 w-full h-[50%] bg-black opacity-50 rounded-lg transition duration-500 ease-in-out transform hover:opacity-0 hover:scale-110"></div>} */}

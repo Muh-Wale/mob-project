@@ -4,14 +4,13 @@ import tick from '/src/assets/Tick.png'
 import properties from '../data/properties.json'
 import propertiesTwo from '../data/propertiesTwo.json'
 import image1 from '../../assets/image1.png';
+import Linke from '../../assets/Link.png';
+import Like from '../../assets/Like.png';
 import { Navigation, Pagination, Scrollbar, A11y } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css/pagination';
 import 'swiper/css';
 
-const imageMap = {
-    "/assets/image1": image1,
-};
 const Projects = () => {
     const useWindowSize = () => {
         const [size, setSize] = useState([window.innerWidth, window.innerHeight]);
@@ -246,8 +245,8 @@ const Projects = () => {
                                                 <span>{propertiesTwo.contentFour}</span>
                                             </div>
                                             <div className='flex gap-[30px]'>
-                                                <div><img src={propertiesTwo.contentSeven} alt="" /></div>
-                                                <div><img src={propertiesTwo.contentEight} alt="" /></div>
+                                                <div><img src={[Linke]} alt="" /></div>
+                                                <div><img src={[Like]} alt="" /></div>
                                             </div>
                                         </div>
                                     </Link>

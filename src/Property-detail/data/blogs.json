@@ -1,0 +1,69 @@
+{ "blogsOne" : [
+        {
+            "pic": "/assets/blogOne.png",
+            "contentOne": "JULY 24, 2023",
+            "contentTwo": "5mins read",
+            "contentThree": "11:45am",
+            "contentFour": "Facts About Wooden House",
+            "contentFive": "loremipsum has proven to be the most common dummy text since 1275.its just latin derived and its ry weird.",
+            "contentSix": "READ MORE",
+            "id": 1
+        },
+        {
+            "pic": "/assets/blogTwo.png",
+            "contentOne": "JULY 24, 2023",
+            "contentTwo": "5mins read",
+            "contentThree": "11:45am",
+            "contentFour": "10 weird buildings that you won’t believe exist",
+            "contentFive": "Lorem ipsum dolor sit amet consectetur. Mi eget scelerisque pellentesque mauris diam sapien. Tincidunt mi ac pulvinar porttitor sit euismod habitant. Amet accumsan feugiat dolor curabitur egestas viverra. Auctor sagittis neque feugiat bibendum. Dapibus diam congue dictum sed.",
+            "contentSix": "READ MORE",
+            "id": 2
+        }
+    ],
+
+    "blogsTwo" : [
+        {
+            "pic": "/assets/blogThree.png",
+            "contentOne": "JULY 24, 2023",
+            "contentTwo": "5mins read",
+            "contentThree": "11:45am",
+            "contentFour": "Burj Khalifa 3 Specultions",
+            "contentFive": "Lorem ipsum dolor sit amet consectetur. Molestie suscipit orci est tincidunt mauris est. Sit habitasse ut lectus donec. Eu metus lectus purus odio tristique iaculis volutpat. Sollicitudin tortor gravida massa lectus. Tempor amet tortor sed.",
+            "contentSix": "READ MORE",
+            "id": 1
+        },
+        {
+            "pic": "/assets/blogFour.png",
+            "contentOne": "JULY 24, 2023",
+            "contentTwo": "5mins read",
+            "contentThree": "11:45am",
+            "contentFour": "Facts About Wooden House",
+            "contentFive": "loremipsum has proven to be the most common dummy text since 1275.its just latin derived and its ry weird.",
+            "contentSix": "READ MORE",
+            "id": 2
+        }
+    ],
+
+    "blogsThree" :     [
+        {
+            "pic": "/assets/blogFive.png",
+            "contentOne": "JULY 24, 2023",
+            "contentTwo": "5mins read",
+            "contentThree": "11:45am",
+            "contentFour": "Chinese architecture incoporated into African’s",
+            "contentFive": "Lorem ipsum dolor sit amet consectetur. Id odio maecenas gravida felis nunc eget est nulla diam. Quis amet quis ultricies sapien non id egestas.",
+            "contentSix": "READ MORE",
+            "id": 1
+        },
+        {
+            "pic": "/assets/blogSix.png",
+            "contentOne": "JULY 24, 2023",
+            "contentTwo": "5mins read",
+            "contentThree": "11:45am",
+            "contentFour": "Most Expensive Lands Ever",
+            "contentFive": "Lorem ipsum dolor sit amet consectetur. Arcu facilisi ultricies augue habitant facilisis nunc. Nisi.",
+            "contentSix": "READ MORE",
+            "id": 2
+        }
+    ]
+}
